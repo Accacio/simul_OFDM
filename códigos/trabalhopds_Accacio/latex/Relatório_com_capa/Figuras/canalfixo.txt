@@ -1,0 +1,64 @@
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_ovadd_invcicl-BPSK-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_ovadd_invcicl-BPSK-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_ovadd_invcicl-QAM4-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_ovadd_invcicl-QAM4-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_ovadd_ofdm-BPSK-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_ovadd_ofdm-BPSK-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_ovadd_ofdm-QAM4-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_ovadd_ofdm-QAM4-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_ovsav-BPSK-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_ovsav-BPSK-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_ovsav-QAM4-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_ovsav-QAM4-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_redunmin-BPSK-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_redunmin-BPSK-n_s-1000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{canalfixo/canalfixo_redunmin-QAM4-n_s-1000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:canalfixo_redunmin-QAM4-n_s-1000}
+	\end{center}
+\end{figure}
+

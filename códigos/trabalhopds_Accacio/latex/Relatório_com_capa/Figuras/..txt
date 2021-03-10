@@ -1,0 +1,16 @@
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{./Overlap_and_Save_Diagrama.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:Overlap_and_Save_Diagrama}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{./esquema_comunicacao.JPG}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:esquema_comunicacao}
+	\end{center}
+\end{figure}
+

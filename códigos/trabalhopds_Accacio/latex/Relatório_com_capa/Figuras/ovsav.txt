@@ -1,0 +1,16 @@
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{ovsav/ovsav-BPSK-n_s-1000-N_canais_10000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:ovsav-BPSK-n_s-1000-N_canais_10000}
+	\end{center}
+\end{figure}
+
+\begin{figure}[H]
+	\begin{center}	
+		\includegraphics[width=8cm]{ovsav/ovsav-QAM4-n_s-1000-N_canais_10000.pdf}
+		\caption{\todo{escrevaaquiseucaption}}
+		\label{fig:ovsav-QAM4-n_s-1000-N_canais_10000}
+	\end{center}
+\end{figure}
+
